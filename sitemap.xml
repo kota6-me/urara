@@ -7,21 +7,21 @@
     xmlns:image="https://www.google.com/schemas/sitemap-image/1.1"
     xmlns:video="https://www.google.com/schemas/sitemap-video/1.1">
     <url>
-      <loc>https://urara-demo.netlify.app</loc>
+      <loc>https://urara.r1tsu.com</loc>
     </url>
     
         <url>
-            <loc>https://urara-demo.netlify.app/hello-world/elements</loc>
-            <lastmod>2023-05-29T07:13:12.589Z</lastmod>
+            <loc>https://urara.r1tsu.com/hello-world/elements</loc>
+            <lastmod>2023-05-29T11:01:01.666Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
-            <loc>https://urara-demo.netlify.app/hello-world/toc-disabled</loc>
-            <lastmod>2023-05-29T07:13:12.589Z</lastmod>
+            <loc>https://urara.r1tsu.com/hello-world/toc-disabled</loc>
+            <lastmod>2023-05-29T11:01:01.666Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
-            <loc>https://urara-demo.netlify.app/hello-world</loc>
+            <loc>https://urara.r1tsu.com/hello-world</loc>
             <lastmod>2021-12-12T00:00:00.000Z</lastmod>
             <priority>0.5</priority>
         </url>
