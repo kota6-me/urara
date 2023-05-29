@@ -1,6 +1,5 @@
 ---
 title: 'Hello World'
-image: './hello_world/urara.webp'
 created: 2023-05-29
 tags:
   - 'Hello World'
