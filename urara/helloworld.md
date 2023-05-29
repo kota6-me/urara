@@ -1,6 +1,6 @@
 ---
 title: 'Hello World'
-image: 'ritsu-me/urara/urara/hello_world/urara.webp'
+image: './hello_world/urara.webp'
 created: 2023-05-29
 tags:
   - 'Hello World'
