@@ -20,7 +20,7 @@ const me = {
     "timezone": "UTC+9",
   }
 }
-module.export = me
+module.exports.me
 ```
 # Self Introducing
 
