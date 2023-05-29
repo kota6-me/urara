@@ -7,21 +7,10 @@ tags:
   - 'Free Talk'
 ---
 
-# Who are you?
+# Who Am I?
 
-```ts twoslash title="./about_me.ts"
-const me = {
-  "name": "Ritsu Yuzaki",
-  "age": 16,
-  "sexual": "Male",
-  "isStudent": true,
-  "locale": {
-    "lang": "jp-JA",
-    "timezone": "UTC+9",
-  }
-}
-module.exports.me
-```
+こんにちは！由崎律です。限界高校生の傍らエンジニアしてます。
+
 # Self Introducing
 
-どうもこんにちは。
+ara-ara
