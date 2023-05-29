@@ -16,8 +16,8 @@ const me = {
   "sexual": "Male",
   "isStudent": true,
   "locale": {
-    "lang": jp-JA,
-    "timezone": UTC+9,
+    "lang": "jp-JA",
+    "timezone": "UTC+9",
   }
 }
 ```
