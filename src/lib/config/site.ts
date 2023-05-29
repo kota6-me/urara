@@ -11,7 +11,7 @@ export const site: SiteConfig = {
     avatar: '/assets/maskable@512.png',
     name: '由崎律 (Ritsu Yuzaki)',
     status: '🖥',
-    bio: '限界高校生\nフリーランスエンジニア'
+    bio: '限界高校生 兼 エンジニア'
   },
   themeColor: '#ffce53'
 }
