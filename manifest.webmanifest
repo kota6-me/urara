@@ -24,13 +24,13 @@
       "purpose": "any"
     },
     {
-      "src": "https://note.r1tsu.com/assets/ritsu.png",
+      "src": "https://note.r1tsu.com/assets/Zone.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "https://note.r1tsu.com/assets/ritsu.png",
+      "src": "https://note.r1tsu.com/assets/Zone.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
