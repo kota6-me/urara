@@ -8,7 +8,7 @@ export const site: SiteConfig = {
   lang: 'ja-JP',
   description: 'Powered by Urara, The Svelte engine.',
   author: {
-    avatar: '/assets/maskable@512.png',
+    avatar: '/assets/ritsu.png',
     name: '由崎律 (Ritsu Yuzaki)',
     status: '🖥',
     bio: '限界高校生 兼 エンジニア'
