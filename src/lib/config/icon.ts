@@ -9,17 +9,17 @@ export const favicon: Icon = {
 
 export const any: { [key: number]: Icon } = {
   180: {
-    src: site.protocol + site.domain + '/assets/ritsu.png',
+    src: site.protocol + site.domain + '/assets/Zone.png',
     sizes: '180x180',
     type: 'image/png'
   },
   192: {
-    src: site.protocol + site.domain + '/assets/ritsu.png',
+    src: site.protocol + site.domain + '/assets/Zone.png',
     sizes: '192x192',
     type: 'image/png'
   },
   512: {
-    src: site.protocol + site.domain + '/assets/ritsu.png',
+    src: site.protocol + site.domain + '/assets/Zone.png',
     sizes: '512x512',
     type: 'image/png'
   }
