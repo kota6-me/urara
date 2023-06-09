@@ -12,25 +12,25 @@
   "theme_color": "#ffce53",
   "icons": [
     {
-      "src": "https://note.r1tsu.com/assets/any@192.png",
+      "src": "https://note.r1tsu.com/assets/ritsu.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://note.r1tsu.com/assets/any@512.png",
+      "src": "https://note.r1tsu.com/assets/ritsu.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://note.r1tsu.com/assets/maskable@192.png",
+      "src": "https://note.r1tsu.com/assets/ritsu.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "https://note.r1tsu.com/assets/maskable@512.png",
+      "src": "https://note.r1tsu.com/assets/ritsu.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
