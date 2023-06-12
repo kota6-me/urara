@@ -1,44 +1,34 @@
 ---
-title: 'Hello World'
-image: '/hello-world/urara.webp'
-created: 2021-11-01
-updated: 2021-12-12
+title: 'Howdy!'
+created: 2023-06-09
 tags:
   - 'Hello World'
-  - 'Urara'
+  - 'Free Talk'
 ---
 
-Welcome to Urara! this article contains some basic operations to help you quickly get started.
+## Welcome to Notebook!
 
-## Developing
+こんにちは。どうも由崎律です！
+このサイトは僕が日々思ったことなどを書き散らしてゆくブログサイトです。
 
-Start a development server:
+## Introducing me
 
-```bash
-# http://127.0.0.1:5173
-pnpm dev
-```
+一体僕は何なんでしょうね？自己紹介です！
 
-or listen to different IP and port:
+### 誰？
+僕は由崎律。どこにでもいる高校生です。
 
-```bash
-# http://127.0.0.1:3000
-pnpm dev --port 3000
+コロナ禍1年目のオンライン授業をガン無視してJavaScriptを猛勉強した結果、成績という重い代償を払う代わりにそこそこ役に立つスキルを入手できた、そんなやつです。
 
-# http://0.0.0.0:3000
-nr dev --host 0.0.0.0 --port 3000
-```
+### 基本情報
+2006年6月9日生まれ
 
-## Building
+宮城県仙台市出身
 
-Create a production version of ur blog:
+都内の中高一貫男子校に通ってる限界高校生
 
-```bash
-pnpm build
-```
+バックエンド(Node.js)メインのプログラマー
 
-u can preview the built app with `pnpm preview`.
+### スキル
 
-## Documentation
-
-For full documentation, visit [urara-docs.netlify.app](https://urara-docs.netlify.app).
+現在準備中
