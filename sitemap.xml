@@ -11,23 +11,8 @@
     </url>
     
         <url>
-            <loc>https://note.r1tsu.com/hello-world/howdy</loc>
-            <lastmod>2023-06-12T01:35:55.615Z</lastmod>
-            <priority>0.5</priority>
-        </url>
-        <url>
-            <loc>https://note.r1tsu.com/hello-world/elements</loc>
-            <lastmod>2023-06-12T01:35:55.615Z</lastmod>
-            <priority>0.5</priority>
-        </url>
-        <url>
-            <loc>https://note.r1tsu.com/hello-world/toc-disabled</loc>
-            <lastmod>2023-06-12T01:35:55.615Z</lastmod>
-            <priority>0.5</priority>
-        </url>
-        <url>
             <loc>https://note.r1tsu.com/hello-world</loc>
-            <lastmod>2021-12-12T00:00:00.000Z</lastmod>
+            <lastmod>2023-06-12T02:55:26.774Z</lastmod>
             <priority>0.5</priority>
         </url>
   </urlset>
