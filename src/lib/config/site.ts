@@ -29,7 +29,7 @@ export const site: SiteConfig = {
     avatar: '/assets/ritsu.png',
     name: '由崎律 (Ritsu Yuzaki)',
     status: '🖥',
-    bio: '限界高校生 兼 エンジニア'
+    bio: '限界高校生 兼 エンジニア<br>' + bio[~~(Math.random() * bio.length)]
   },
   themeColor: '#ffce53'
 }
