@@ -19,17 +19,22 @@ const bio = [
 ]
 
 export const site: SiteConfig = {
-  protocol: import.meta.env.URARA_SITE_PROTOCOL ?? import.meta.env.DEV ? 'http://' : 'https://',
-  domain: import.meta.env.URARA_SITE_DOMAIN ?? 'note.r1tsu.com',
-  title: 'Notebook',
-  subtitle: 'Ritsu Yuzaki\'s blog site.',
-  lang: 'ja-JP',
-  description: 'Powered by Urara, The Svelte engine.',
+  protocol:
+    import.meta.env.URARA_SITE_PROTOCOL ?? import.meta.env.DEV
+      ? "http://"
+      : "https://",
+  domain: import.meta.env.URARA_SITE_DOMAIN ?? "note.r1tsu.com",
+  title: "Notebook",
+  subtitle: "Ritsu Yuzaki's blog site.",
+  lang: "ja-JP",
+  description: "Powered by Urara, The Svelte engine.",
   author: {
-    avatar: '/assets/ritsu.png',
-    name: '由崎律 (Ritsu Yuzaki)',
-    status: '🖥',
-    bio: '限界高校生 兼 エンジニア<br>' + bio[~~(Math.random() * bio.length)]
+    avatar: "/assets/ritsu.png",
+    name: "由崎律 (Ritsu Yuzaki)",
+    status: "🖥",
+    bio:
+      "限界高校生 兼 エンジニア<br><br><br>" +
+      bio[~~(Math.random() * bio.length)],
   },
-  themeColor: '#ffce53'
-}
+  themeColor: "#ffce53",
+};
