@@ -33,7 +33,7 @@ export const site: SiteConfig = {
     name: "Ritsu Yuzaki",
     status: "🖥",
     bio:
-      "限界高校生 兼 エンジニア<br><br><br>" +
+      "限界高校生<br>兼<br>エンジニア<br><br><br>" +
       bio[~~(Math.random() * bio.length)],
   },
   themeColor: "#ffce53",
