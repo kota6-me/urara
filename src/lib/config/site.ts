@@ -30,7 +30,7 @@ export const site: SiteConfig = {
   description: "Powered by Urara, The Svelte engine.",
   author: {
     avatar: "/assets/ritsu.png",
-    name: "由崎律 (Ritsu Yuzaki)",
+    name: "Ritsu Yuzaki",
     status: "🖥",
     bio:
       "限界高校生 兼 エンジニア<br><br><br>" +
