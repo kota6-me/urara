@@ -15,12 +15,12 @@ tags:
 
 一体僕は何なんでしょうね？自己紹介です！
 
-### 誰？
+### Who are you?
 僕は由崎律。どこにでもいる高校生です。
 
 コロナ禍1年目のオンライン授業をガン無視してJavaScriptを猛勉強した結果、成績という重い代償を払う代わりにそこそこ役に立つスキルを入手できた、そんなやつです。
 
-### 基本情報
+### MyData
 2006年6月9日生まれ
 
 宮城県仙台市出身
@@ -29,6 +29,22 @@ tags:
 
 バックエンド(Node.js)メインのプログラマー
 
-### スキル
+### Contacts
 
-現在準備中
+#### Mail
+- me@ritsu-me.com
+- mail@ritsu-me.com
+
+#### SNS
+- Discord
+```txt
+RitsuYuzaki#8852
+```
+
+- [Facebook](https://www.facebook.com/Ritsu.me)
+
+- [GitHub](https://github.com/ritsu-me)
+
+- [Twitter](https://twitter.com/ritsu_me)
+
+- [Misskey.io](https://misskey.io/@Ritsu_me)
