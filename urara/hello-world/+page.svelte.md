@@ -38,13 +38,13 @@ tags:
 #### SNS
 - Discord
 ```txt
-RitsuYuzaki#8852
+@ritsu.me
 ```
 
-- [Facebook](https://www.facebook.com/Ritsu.me)
+- [由崎律 - Facebook](https://www.facebook.com/Ritsu.me)
 
-- [GitHub](https://github.com/ritsu-me)
+- [RitsuYuzaki - GitHub](https://github.com/ritsu-me)
 
-- [Twitter](https://twitter.com/ritsu_me)
+- [ゆざきりつ - Twitter](https://twitter.com/ritsu_me)
 
-- [Misskey.io](https://misskey.io/@Ritsu_me)
+- [Ritsu_me - Misskey.io](https://misskey.io/@Ritsu_me)
