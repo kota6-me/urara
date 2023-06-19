@@ -1,50 +1,34 @@
 ---
-title: 'test1'
+title: 'Obsidianって便利じゃない？'
 created: 2023-06-19
 tags:
-  - 'Hello World'
+  - 'Techs'
+  - 'Obsidian'
   - 'Free Talk'
 ---
 
-## Welcome to Notebook!
+# Obsidianってご存知ですか？
 
-こんにちは。どうも由崎律です！
-このサイトは僕が日々思ったことなどを書き散らしてゆくブログサイトです。
+Obsidianとは、無料のMarkdownファイルエディターです。
 
-## Introducing me
+様々なプラグインがあるので、カレンダーやアイデアを書き連ねる雑記帳、メモ帳などやタスク管理などにも使えます。
 
-一体僕は何なんでしょうね？自己紹介です！
+もちろん、フローチャートやマインドマップなどもプラグインによって使えるようになっており、.mdのファイルを扱うために最適化されているエディターだと言えます。
 
-### Who are you?
-僕は由崎律。どこにでもいる高校生です。
+# 他のデバイスと同期しながら使いたいなぁ
 
-コロナ禍1年目のオンライン授業をガン無視してJavaScriptを猛勉強した結果、成績という重い代償を払う代わりにそこそこ役に立つスキルを入手できた、そんなやつです。
+でもそんなつよつよなObsidianにも欠点があります。それは、**デバイス間でのデータの同期をするにはObsidian Syncというサブスクに加入しなければならないこと。**
 
-### MyData
-2006年6月9日生まれ
+月に200円とかなら「使ってみようかな？」となりますが、驚く勿れ、なんと月8ドル(約1040円($1=¥130換算))
 
-宮城県仙台市出身
+これではあまりにも学生には手が出せません。
 
-都内の中高一貫男子校に通ってる限界高校生
+そこで考えました。「デフォルト機能が高いなら自分で機能を作ってしまえばいいじゃない。」
 
-バックエンド(Node.js)メインのプログラマー
+もちろん、前述の通り、Obsidianは拡張機能が豊富なので、Obsidian GitなどのGitツールもありますが、マニュアルが英語しかなく、操作が難しいものばかり。
 
-### Contacts
+MarkdownファイルなのでGitHubのプライベートリポジトリかなんかにあげて仕舞えばいいわけです。
 
-#### Mail
-- me@ritsu-me.com
-- mail@ritsu-me.com
+# Gitにバックアップを取ろう
 
-#### SNS
-- Discord
-```txt
-@ritsu.me
-```
-
-- [由崎律 - Facebook](https://www.facebook.com/Ritsu.me)
-
-- [RitsuYuzaki - GitHub](https://github.com/ritsu-me)
-
-- [ゆざきりつ - Twitter](https://twitter.com/ritsu_me)
-
-- [Ritsu_me - Misskey.io](https://misskey.io/@Ritsu_me)
+_以下執筆中_
