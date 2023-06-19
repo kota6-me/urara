@@ -1,6 +1,8 @@
 ---
 title: 'Obsidianって便利だね！'
+image: '/obsidian/obsidian.png'
 created: 2023-06-19
+updated: 2023-06-20
 tags:
   - 'Techs'
   - 'Obsidian'
@@ -42,12 +44,14 @@ MarkdownファイルなのでGitHubのプライベートリポジトリかなん
 ```shell
 //Homebrew(macOS)
 $ brew install git
+```
 
-
+```shell
 //MacPorts(macOS)
 $ sudo port install git
+```
 
-
+```shell
 //WinGet(Powershell)
 $ winget install --id Git.Git -e --source winget
 ```
