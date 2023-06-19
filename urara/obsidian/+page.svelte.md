@@ -7,7 +7,7 @@ tags:
   - 'Free Talk'
 ---
 
-# Obsidianってご存知ですか？
+## Obsidianってご存知ですか？
 
 Obsidianとは、無料のMarkdownファイルエディターです。
 
@@ -15,7 +15,7 @@ Obsidianとは、無料のMarkdownファイルエディターです。
 
 もちろん、フローチャートやマインドマップなどもプラグインによって使えるようになっており、.mdのファイルを扱うために最適化されているエディターだと言えます。
 
-# 他のデバイスと同期しながら使いたいなぁ
+## 他のデバイスと同期しながら使いたい
 
 でもそんなつよつよなObsidianにも欠点があります。それは、**デバイス間でのデータの同期をするにはObsidian Syncというサブスクに加入しなければならないこと。**
 
@@ -31,9 +31,9 @@ MarkdownファイルなのでGitHubのプライベートリポジトリかなん
 
 **_注)Linuxはこの方法には対応していません。_**
 
-# Gitにバックアップを取ろう
+## Gitにバックアップを取ろう
 
-## Gitのインストール
+### Gitのインストール
 
 まずは、お使いの端末にGitをインストールしてください。
 
@@ -43,8 +43,10 @@ MarkdownファイルなのでGitHubのプライベートリポジトリかなん
 //Homebrew(macOS)
 $ brew install git
 
+
 //MacPorts(macOS)
 $ sudo port install git
+
 
 //WinGet(Powershell)
 $ winget install --id Git.Git -e --source winget
@@ -52,7 +54,7 @@ $ winget install --id Git.Git -e --source winget
 
 もしくは[64bit-WindowsOS用の.exeインストーラー](https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.1/Git-2.41.0-64-bit.exe)でインストールすることもできます。
 
-## GitHub Desktopのインストール
+### GitHub Desktopのインストール
 
 その次にGitHub Desktopをインストールしてください。
 
@@ -67,7 +69,7 @@ $ winget install --id Git.Git -e --source winget
 - Windows用インストーラー
 [ダウンロードする](https://central.github.com/deployments/desktop/desktop/latest/win32)
 
-## Obsidianの設定
+### Obsidianの設定
 
 Obsidianをインストールし、初期設定をします。
 
@@ -78,7 +80,7 @@ Obsidianをインストールし、初期設定をします。
 5. 「ロケーション」でファイルの場所を指定します。この記事では`\Users\documents\obsidian`(Windowsの場合は`C:¥Users¥Documents¥obsidian`)とします。
 6. 「作成」ボタンを押したらObsidianの設定は完了です。
 
-## GitHub Desktopの設定
+### GitHub Desktopの設定
 
 GitHub Desktopにご自分のGitHubアカウントでログインします。
 
@@ -93,3 +95,14 @@ GitHub Desktopにご自分のGitHubアカウントでログインします。
 念の為、上の方にある「Fetch Origin」というボタンを押し、リモートとローカルを同期します。
 
 Obsidianでファイルを変更した後は、左下の「summary」にコミットメッセージを入力して、下にある「commit to main」という青いボタンを押して、もう一度「Fetch Origin」を押して同期すればバックアップ完了です！
+
+## 総括
+今回はObsidian Syncに課金せずとも、複数端末でデータを同期できるようにする方法の解説でした。
+
+今回の方法は、GitHub DesktopのアプリケーションにLinux用がないため、Linuxをお使いの方には全く同じ方法でお使いいただくことができません。
+
+ターミナル(コマンドプロンプト)でgitを直接叩くことで同様の動作をさせることは技術的には可能です。
+
+ですが、労力がかかってしまうため、今回の方法をアプリケーション化することも考えております。
+
+最後までお読みくださりありがとうございました。
