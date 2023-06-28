@@ -1,42 +1,42 @@
 <?xml version='1.0' encoding='utf-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>https://note.r1tsu.com/</id>
+  <id>https://r1tsu.com/</id>
   <title><![CDATA[Notebook]]></title>
   <subtitle><![CDATA[Ritsu Yuzaki's blog site.]]></subtitle>
-  <icon>https://note.r1tsu.com/asetts/Zone.png</icon>
-  <link href="https://note.r1tsu.com" />
-  <link href="https://note.r1tsu.com/atom.xml" rel="self" type="application/atom+xml" />
-  <updated>2023-06-19T15:11:45.040Z</updated>
+  <icon>https://r1tsu.com/asetts/Zone.png</icon>
+  <link href="https://r1tsu.com" />
+  <link href="https://r1tsu.com/atom.xml" rel="self" type="application/atom+xml" />
+  <updated>2023-06-28T03:12:08.150Z</updated>
   <author>
     <name><![CDATA[Ritsu Yuzaki]]></name>
   </author>
-  <category term="Techs" scheme="https://note.r1tsu.com/?tags=Techs" />
-  <category term="Obsidian" scheme="https://note.r1tsu.com/?tags=Obsidian" />
-  <category term="Free Talk" scheme="https://note.r1tsu.com/?tags=Free%20Talk" />
-  <category term="Hello World" scheme="https://note.r1tsu.com/?tags=Hello%20World" />
+  <category term="Techs" scheme="https://r1tsu.com/?tags=Techs" />
+  <category term="Obsidian" scheme="https://r1tsu.com/?tags=Obsidian" />
+  <category term="Free Talk" scheme="https://r1tsu.com/?tags=Free%20Talk" />
+  <category term="Hello World" scheme="https://r1tsu.com/?tags=Hello%20World" />
   <entry>
     <title type="html"><![CDATA[Obsidianって便利だね！]]></title>
-    <link href="https://note.r1tsu.com/obsidian" />
-    <id>https://note.r1tsu.com/obsidian</id>
+    <link href="https://r1tsu.com/obsidian" />
+    <id>https://r1tsu.com/obsidian</id>
     <published>2023-06-19T00:00:00.000Z</published>
     <updated>2023-06-20T00:00:00.000Z</updated>
     <content type="html">
       <![CDATA[<h2 id="obsidianってご存知ですか"><a href="#obsidianってご存知ですか">Obsidianってご存知ですか？</a></h2><p>Obsidianとは、無料のMarkdownファイルエディターです。</p><p>様々なプラグインがあるので、カレンダーやアイデアを書き連ねる雑記帳、メモ帳などやタスク管理などにも使えます。</p><p>もちろん、フローチャートやマインドマップなどもプラグインによって使えるようになっており、.mdのファイルを扱うために最適化されているエディターだと言えます。</p><h2 id="他のデバイスと同期しながら使いたい"><a href="#他のデバイスと同期しながら使いたい">他のデバイスと同期しながら使いたい</a></h2><p>でもそんなつよつよなObsidianにも欠点があります。それは、<strong>デバイス間でのデータの同期をするにはObsidian Syncというサブスクに加入しなければならないこと。</strong></p><p>月に200円ぐらいなら「使ってみようかな？」となりますが、驚く勿れ、なんと月8ドル(約1128円($1=¥141換算))</p><p>これではあまりにも学生には手が出せません。</p><p>そこで考えました。「課金機能が高いなら自分で作ってしまえばいいじゃない。」</p><p>もちろん、前述の通り、Obsidianは拡張機能が豊富なので、Obsidian GitなどのGitツールもありますが、マニュアルが英語しかなく、操作が難しいものばかり。</p><p>MarkdownファイルなのでGitHubのプライベートリポジトリかなんかにあげて仕舞えばいいわけです。</p><p><strong><em>注)Linuxはこの方法には対応していません。</em></strong></p><h2 id="gitにバックアップを取ろう"><a href="#gitにバックアップを取ろう">Gitにバックアップを取ろう</a></h2><h3 id="gitのインストール"><a href="#gitのインストール">Gitのインストール</a></h3><p>まずは、お使いの端末にGitをインストールしてください。</p><p>すでにお済みの方は次の章まで飛ばしていただいて構いません。</p><!-- HTML_TAG_START --><pre class="shiki material-default" shell="true"><div class="language-id">shell</div><div class='code-container'><code><div class='line'>//Homebrew(macOS)</div><div class='line'>$ brew install git</div></code></div></pre><!-- HTML_TAG_END --><!-- HTML_TAG_START --><pre class="shiki material-default" shell="true"><div class="language-id">shell</div><div class='code-container'><code><div class='line'>//MacPorts(macOS)</div><div class='line'>$ sudo port install git</div></code></div></pre><!-- HTML_TAG_END --><!-- HTML_TAG_START --><pre class="shiki material-default" shell="true"><div class="language-id">shell</div><div class='code-container'><code><div class='line'>//WinGet(Powershell)</div><div class='line'>$ winget install --id Git.Git -e --source winget</div></code></div></pre><!-- HTML_TAG_END --><p>もしくは<a href="https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.1/Git-2.41.0-64-bit.exe" rel="nofollow noopener noreferrer external" target="_blank">64bit-WindowsOS用の.exeインストーラー</a>でインストールすることもできます。</p><h3 id="github-desktopのインストール"><a href="#github-desktopのインストール">GitHub Desktopのインストール</a></h3><p>その次にGitHub Desktopをインストールしてください。</p><p>すでにお済みの方は次の章まで飛ばしていただいて構いません。</p><ul><li><p>macOS(Intelチップ)用インストーラー<a href="https://central.github.com/deployments/desktop/desktop/latest/darwin" rel="nofollow noopener noreferrer external" target="_blank">ダウンロードする</a></p></li><li><p>macOS(AppleSilicon)用インストーラー<a href="https://central.github.com/deployments/desktop/desktop/latest/darwin-arm64" rel="nofollow noopener noreferrer external" target="_blank">ダウンロードする</a></p></li><li><p>Windows用インストーラー<a href="https://central.github.com/deployments/desktop/desktop/latest/win32" rel="nofollow noopener noreferrer external" target="_blank">ダウンロードする</a></p></li></ul><h3 id="obsidianの設定"><a href="#obsidianの設定">Obsidianの設定</a></h3><p>Obsidianをインストールし、初期設定をします。</p><ol><li>まず、<a href="https://obsidian.md/" rel="nofollow noopener noreferrer external" target="_blank">Obsidianをダウンロード</a>してください。</li><li>Obsidianを起動したら、メニューの最下部の言語設定を<code>English</code>から<code>日本語</code>に変えます。</li><li>次に、メニューの一番上の選択肢、「保管庫を新規作成する」を選びます。</li><li>「保管庫の名称」にお好きなものを入れてください。この記事では仮に<code>obsidian</code>とします。</li><li>「ロケーション」でファイルの場所を指定します。この記事では<code>\Users\documents\obsidian</code>(Windowsの場合は<code>C:¥Users¥Documents¥obsidian</code>)とします。</li><li>「作成」ボタンを押したらObsidianの設定は完了です。</li></ol><h3 id="github-desktopの設定"><a href="#github-desktopの設定">GitHub Desktopの設定</a></h3><p>GitHub Desktopにご自分のGitHubアカウントでログインします。</p><p>その後、WebのGitHub上でお好きな<em>プライベートリポジトリ</em>を作成しておいてください。(プライベートにしないと、書いた内容が全世界に発信されてしまいます。)</p><p>アプリケーションのウィンドウ上部の「file」もしくは「ファイル」(どちらかになっていると思います！)をクリックし、「Add local repository」を選択します。</p><p>その後、表示されるポップアップウィンドウに先ほど設定したObsidianのファイルを設定します。</p><p>これで、ローカルのリポジトリと、リモートのリポジトリが結びつきました！</p><p>念の為、上の方にある「Fetch Origin」というボタンを押し、リモートとローカルを同期します。</p><p>Obsidianでファイルを変更した後は、左下の「summary」にコミットメッセージを入力して、下にある「commit to main」という青いボタンを押して、もう一度「Fetch Origin」を押して同期すればバックアップ完了です！</p><h2 id="総括"><a href="#総括">総括</a></h2><p>今回はObsidian Syncに課金せずとも、複数端末でデータを同期できるようにする方法の解説でした。</p><p>今回の方法は、GitHub DesktopのアプリケーションにLinux用がないため、Linuxをお使いの方には全く同じ方法でお使いいただくことができません。</p><p>ターミナル(コマンドプロンプト)でgitを直接叩くことで同様の動作をさせることは技術的には可能です。</p><p>ですが、労力がかかってしまうため、今回の方法をアプリケーション化することも考えております。</p><p>最後までお読みくださりありがとうございました。</p>]]>
     </content>
-    <category term="Techs" scheme="https://note.r1tsu.com/?tags=Techs" />
-    <category term="Obsidian" scheme="https://note.r1tsu.com/?tags=Obsidian" />
-    <category term="Free Talk" scheme="https://note.r1tsu.com/?tags=Free%20Talk" />
+    <category term="Techs" scheme="https://r1tsu.com/?tags=Techs" />
+    <category term="Obsidian" scheme="https://r1tsu.com/?tags=Obsidian" />
+    <category term="Free Talk" scheme="https://r1tsu.com/?tags=Free%20Talk" />
   </entry>
   <entry>
     <title type="html"><![CDATA[Howdy!]]></title>
-    <link href="https://note.r1tsu.com/hello-world" />
-    <id>https://note.r1tsu.com/hello-world</id>
+    <link href="https://r1tsu.com/hello-world" />
+    <id>https://r1tsu.com/hello-world</id>
     <published>2023-06-09T00:00:00.000Z</published>
-    <updated>2023-06-19T15:11:09.540Z</updated>
+    <updated>2023-06-28T03:11:17.361Z</updated>
     <content type="html">
       <![CDATA[<h2 id="welcome-to-notebook"><a href="#welcome-to-notebook">Welcome to Notebook!</a></h2><p>こんにちは。どうも由崎律です！このサイトは僕が日々思ったことなどを書き散らしてゆくブログサイトです。</p><h2 id="introducing-me"><a href="#introducing-me">Introducing me</a></h2><p>一体僕は何なんでしょうね？自己紹介です！</p><h3 id="who-are-you"><a href="#who-are-you">Who are you?</a></h3><p>僕は由崎律。どこにでもいる高校生です。</p><p>コロナ禍1年目のオンライン授業をガン無視してJavaScriptを猛勉強した結果、成績という重い代償を払う代わりにそこそこ役に立つスキルを入手できた、そんなやつです。</p><h3 id="mydata"><a href="#mydata">MyData</a></h3><p>2006年6月9日生まれ</p><p>宮城県仙台市出身</p><p>都内の中高一貫男子校に通ってる限界高校生</p><p>バックエンド(Node.js)メインのプログラマー</p><h3 id="contacts"><a href="#contacts">Contacts</a></h3><h4 id="mail"><a href="#mail">Mail</a></h4><ul><li><a href="mailto:me@ritsu-me.com">me@ritsu-me.com</a></li><li><a href="mailto:mail@ritsu-me.com">mail@ritsu-me.com</a></li></ul><h4 id="sns"><a href="#sns">SNS</a></h4><ul><li>Discord</li></ul><!-- HTML_TAG_START --><pre class="shiki material-default" txt="true"><div class="language-id">txt</div><div class='code-container'><code><div class='line'>@ritsu.me</div></code></div></pre><!-- HTML_TAG_END --><ul><li><p><a href="https://www.facebook.com/Ritsu.me" rel="nofollow noopener noreferrer external" target="_blank">由崎律 - Facebook</a></p></li><li><p><a href="https://github.com/ritsu-me" rel="nofollow noopener noreferrer external" target="_blank">RitsuYuzaki - GitHub</a></p></li><li><p><a href="https://twitter.com/ritsu_me" rel="nofollow noopener noreferrer external" target="_blank">ゆざきりつ - Twitter</a></p></li><li><p><a href="https://misskey.io/@Ritsu_me" rel="nofollow noopener noreferrer external" target="_blank">Ritsu_me - Misskey.io</a></p></li></ul>]]>
     </content>
-    <category term="Hello World" scheme="https://note.r1tsu.com/?tags=Hello%20World" />
-    <category term="Free Talk" scheme="https://note.r1tsu.com/?tags=Free%20Talk" />
+    <category term="Hello World" scheme="https://r1tsu.com/?tags=Hello%20World" />
+    <category term="Free Talk" scheme="https://r1tsu.com/?tags=Free%20Talk" />
   </entry>
 </feed>
