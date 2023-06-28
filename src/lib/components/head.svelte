@@ -8,6 +8,8 @@
 </script>
 
 <svelte:head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3690667752730073"
+     crossorigin="anonymous"></script>
   <meta name="author" content={site.author?.name} />
   {#if post}
     <link rel="canonical" href={site.protocol + site.domain + post.path} />
