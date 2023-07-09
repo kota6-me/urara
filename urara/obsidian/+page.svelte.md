@@ -1,6 +1,6 @@
 ---
 title: 'Obsidianって便利だね！'
-image: '/hello-world/obsidian/obsidian.png'
+image: '/obsidian/obsidian.png'
 created: 2023-06-19
 updated: 2023-06-20
 tags:
