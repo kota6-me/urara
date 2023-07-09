@@ -6,29 +6,14 @@
   <icon>https://r1tsu.com/asetts/Zone.png</icon>
   <link href="https://r1tsu.com" />
   <link href="https://r1tsu.com/atom.xml" rel="self" type="application/atom+xml" />
-  <updated>2023-07-08T12:27:40.594Z</updated>
+  <updated>2023-07-09T12:53:26.854Z</updated>
   <author>
     <name><![CDATA[Ritsu Yuzaki]]></name>
   </author>
-  <category term="My Opinion" scheme="https://r1tsu.com/?tags=My%20Opinion" />
-  <category term="Free Talk" scheme="https://r1tsu.com/?tags=Free%20Talk" />
-  <category term="Political" scheme="https://r1tsu.com/?tags=Political" />
   <category term="Techs" scheme="https://r1tsu.com/?tags=Techs" />
   <category term="Obsidian" scheme="https://r1tsu.com/?tags=Obsidian" />
+  <category term="Free Talk" scheme="https://r1tsu.com/?tags=Free%20Talk" />
   <category term="Hello World" scheme="https://r1tsu.com/?tags=Hello%20World" />
-  <entry>
-    <title type="html"><![CDATA[近頃何かとLGBTが話題になりますが...]]></title>
-    <link href="https://r1tsu.com/hello-world/lgbt-opinion" />
-    <id>https://r1tsu.com/hello-world/lgbt-opinion</id>
-    <published>2023-07-08T00:00:00.000Z</published>
-    <updated>2023-07-08T00:00:00.000Z</updated>
-    <content type="html">
-      <![CDATA[<h2 id="そもそもlgbtとは"><a href="#そもそもlgbtとは">そもそもLGBTとは</a></h2><p><strong>L</strong>esbian/<strong>G</strong>ay/<strong>B</strong>i-sexual/<strong>T</strong>ransgenderの頭文字です。</p><p>一般的に身体的性と精神的性が一致していない人や、性志向が同性に向く人などのことを指します。</p><p>さらに細かく突き詰めていくと本投稿の趣旨から外れてしまうので、さらに詳しく知りたい方は以下のサイトをご覧ください。</p><p><a href="https://tsunagary.jp/vocabulary" rel="nofollow noopener noreferrer external" target="_blank">LGBT用語集 - Tsunagary Cafe</a></p><p>僕の場合は、性別に拘りなく(男性的だから〜、女性的だから〜ということでなく)好きになった人が好き、というタイプなので分類上は「Pan-Sexual」(パンセクシュアル)となります。</p><h2 id="最近の風潮では"><a href="#最近の風潮では">最近の風潮では…</a></h2><p>最近の風潮では大企業が「LGBTに寛容です！」と言わんばかりにHPで広報をしていたり、政府が「理解増進法案」なるものの審議をしていたりしますが、当事者からしてみると大仰な茶番にしか見えないわけで、なんのための活動なのかがわからないのです。</p><p>そもそも我々が(少なくとも私が)望んでいることは「深く詮索をされないこと」であって「理解の増進」ではないのです。</p><p>考えてもみてください。</p><p><strong>A「僕彼女できたんだ〜、Bは？」</strong></p><p><strong>B「僕はゲイだからさ、、、」</strong></p><p>こう返したとすると、現在の人たちは</p><p><strong>「え、ゲイってどんな人がタイプなの？〇〇(某YouTuber)？」</strong></p><p><strong>「じゃあ僕も恋愛対象ってこと？」</strong></p><p><strong>「おかまやんwww」</strong></p><p>このような返答が返ってきます(友人談)</p><p>タイプなどの話は、ストレートの人同士でも親しい仲なら聞いたりするので百歩譲っても、二番目などはもう意味がわかりません。自意識過剰過ぎです。三番目なんて論外です。「おかま」は現在は差別用語として扱われています。</p><p>僕らは別に大層な扱いをしてもらいたいわけでも、差別されたいわけでもなく普通に生きて、僕らなりに普通の恋愛がしたいのです。</p><p>上記の会話に理想の返し方、というのは人それぞれでしょうが、僕にとってはこんな感じです。</p><p><strong>A「いい縁があるといいね」</strong></p><p>ストレートの会話でも使えるでしょう。僕らは特別扱いを望んでいるわけではなく、普通に接して欲しいと思っていることをどうかわかってください。</p><h2 id="lgbtとパートナーシップ制度"><a href="#lgbtとパートナーシップ制度">LGBTとパートナーシップ制度</a></h2><p>現在、同性カップルなどでも互いがパートナーであることを届け出て、公的に証明できるシステムは「パートナーシップ宣誓制度」というものがあり、255の自治体が導入しています。(2023/1/10当時・渋谷区役所調べ)</p>]]>
-    </content>
-    <category term="My Opinion" scheme="https://r1tsu.com/?tags=My%20Opinion" />
-    <category term="Free Talk" scheme="https://r1tsu.com/?tags=Free%20Talk" />
-    <category term="Political" scheme="https://r1tsu.com/?tags=Political" />
-  </entry>
   <entry>
     <title type="html"><![CDATA[Obsidianって便利だね！]]></title>
     <link href="https://r1tsu.com/hello-world/obsidian" />
@@ -47,7 +32,7 @@
     <link href="https://r1tsu.com/hello-world" />
     <id>https://r1tsu.com/hello-world</id>
     <published>2023-06-09T00:00:00.000Z</published>
-    <updated>2023-07-08T12:27:04.069Z</updated>
+    <updated>2023-07-09T12:52:50.374Z</updated>
     <content type="html">
       <![CDATA[<h2 id="welcome-to-notebook"><a href="#welcome-to-notebook">Welcome to Notebook!</a></h2><p>こんにちは。どうも由崎律です！このサイトは僕が日々思ったことなどを書き散らしてゆくブログサイトです。</p><h2 id="introducing-me"><a href="#introducing-me">Introducing me</a></h2><p>一体僕は何なんでしょうね？自己紹介です！</p><h3 id="who-are-you"><a href="#who-are-you">Who are you?</a></h3><p>僕は由崎律。どこにでもいる高校生です。</p><p>コロナ禍1年目のオンライン授業をガン無視してJavaScriptを猛勉強した結果、成績という重い代償を払う代わりにそこそこ役に立つスキルを入手できた、そんなやつです。</p><h3 id="mydata"><a href="#mydata">MyData</a></h3><p>2006年6月9日生まれ</p><p>宮城県仙台市出身</p><p>都内の中高一貫男子校に通ってる限界高校生</p><p>バックエンド(Node.js)メインのプログラマー</p><h3 id="contacts"><a href="#contacts">Contacts</a></h3><h4 id="mail"><a href="#mail">Mail</a></h4><ul><li><a href="mailto:me@ritsu-me.com">me@ritsu-me.com</a></li><li><a href="mailto:mail@ritsu-me.com">mail@ritsu-me.com</a></li></ul><h4 id="sns"><a href="#sns">SNS</a></h4><ul><li>Discord</li></ul><!-- HTML_TAG_START --><pre class="shiki material-default" txt="true"><div class="language-id">txt</div><div class='code-container'><code><div class='line'>@ritsu.me</div></code></div></pre><!-- HTML_TAG_END --><ul><li><p><a href="https://www.facebook.com/Ritsu.me" rel="nofollow noopener noreferrer external" target="_blank">由崎律 - Facebook</a></p></li><li><p><a href="https://github.com/ritsu-me" rel="nofollow noopener noreferrer external" target="_blank">RitsuYuzaki - GitHub</a></p></li><li><p><a href="https://twitter.com/ritsu_me" rel="nofollow noopener noreferrer external" target="_blank">ゆざきりつ - Twitter</a></p></li><li><p><a href="https://misskey.io/@Ritsu_me" rel="nofollow noopener noreferrer external" target="_blank">Ritsu_me - Misskey.io</a></p></li></ul>]]>
     </content>
