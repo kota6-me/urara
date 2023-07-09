@@ -6,7 +6,7 @@
   <icon>https://r1tsu.com/asetts/Zone.png</icon>
   <link href="https://r1tsu.com" />
   <link href="https://r1tsu.com/atom.xml" rel="self" type="application/atom+xml" />
-  <updated>2023-07-09T12:53:26.854Z</updated>
+  <updated>2023-07-09T13:52:59.134Z</updated>
   <author>
     <name><![CDATA[Ritsu Yuzaki]]></name>
   </author>
@@ -16,8 +16,8 @@
   <category term="Hello World" scheme="https://r1tsu.com/?tags=Hello%20World" />
   <entry>
     <title type="html"><![CDATA[Obsidianって便利だね！]]></title>
-    <link href="https://r1tsu.com/hello-world/obsidian" />
-    <id>https://r1tsu.com/hello-world/obsidian</id>
+    <link href="https://r1tsu.com/obsidian" />
+    <id>https://r1tsu.com/obsidian</id>
     <published>2023-06-19T00:00:00.000Z</published>
     <updated>2023-06-20T00:00:00.000Z</updated>
     <content type="html">
@@ -32,7 +32,7 @@
     <link href="https://r1tsu.com/hello-world" />
     <id>https://r1tsu.com/hello-world</id>
     <published>2023-06-09T00:00:00.000Z</published>
-    <updated>2023-07-09T12:52:50.374Z</updated>
+    <updated>2023-07-09T13:52:16.441Z</updated>
     <content type="html">
       <![CDATA[<h2 id="welcome-to-notebook"><a href="#welcome-to-notebook">Welcome to Notebook!</a></h2><p>こんにちは。どうも由崎律です！このサイトは僕が日々思ったことなどを書き散らしてゆくブログサイトです。</p><h2 id="introducing-me"><a href="#introducing-me">Introducing me</a></h2><p>一体僕は何なんでしょうね？自己紹介です！</p><h3 id="who-are-you"><a href="#who-are-you">Who are you?</a></h3><p>僕は由崎律。どこにでもいる高校生です。</p><p>コロナ禍1年目のオンライン授業をガン無視してJavaScriptを猛勉強した結果、成績という重い代償を払う代わりにそこそこ役に立つスキルを入手できた、そんなやつです。</p><h3 id="mydata"><a href="#mydata">MyData</a></h3><p>2006年6月9日生まれ</p><p>宮城県仙台市出身</p><p>都内の中高一貫男子校に通ってる限界高校生</p><p>バックエンド(Node.js)メインのプログラマー</p><h3 id="contacts"><a href="#contacts">Contacts</a></h3><h4 id="mail"><a href="#mail">Mail</a></h4><ul><li><a href="mailto:me@ritsu-me.com">me@ritsu-me.com</a></li><li><a href="mailto:mail@ritsu-me.com">mail@ritsu-me.com</a></li></ul><h4 id="sns"><a href="#sns">SNS</a></h4><ul><li>Discord</li></ul><!-- HTML_TAG_START --><pre class="shiki material-default" txt="true"><div class="language-id">txt</div><div class='code-container'><code><div class='line'>@ritsu.me</div></code></div></pre><!-- HTML_TAG_END --><ul><li><p><a href="https://www.facebook.com/Ritsu.me" rel="nofollow noopener noreferrer external" target="_blank">由崎律 - Facebook</a></p></li><li><p><a href="https://github.com/ritsu-me" rel="nofollow noopener noreferrer external" target="_blank">RitsuYuzaki - GitHub</a></p></li><li><p><a href="https://twitter.com/ritsu_me" rel="nofollow noopener noreferrer external" target="_blank">ゆざきりつ - Twitter</a></p></li><li><p><a href="https://misskey.io/@Ritsu_me" rel="nofollow noopener noreferrer external" target="_blank">Ritsu_me - Misskey.io</a></p></li></ul>]]>
     </content>
