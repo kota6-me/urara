@@ -48,3 +48,29 @@ tags:
 - [ゆざきりつ - Twitter](https://twitter.com/ritsu_me)
 
 - [Ritsu_me - Misskey.io](https://misskey.io/@Ritsu_me)
+
+### Hobbys
+
+#### 写真撮影
+
+街歩きをしながら写真を撮るのが好きです。
+
+以下は代表作です。
+
+<sub>*すべての写真は著作権法により一切の二次利用を禁止します。*</sub>
+
+![A Normal Day of Brooklyn](./IMG_0673_Original.jpg)
+
+![Chuzenjiko lake](./IMG_2126_Original.jpg)
+
+![This isn't default wallpaper of macOS](./IMG_2172_Original.jpg)
+
+![National Stadium - Japan](./IMG_2720_Original.jpg)
+
+![Old plate of station name](./IMG_3188_Original.jpg)
+
+![Japanese narrow alley](./IMG_5615_Original.jpg)
+
+#### 自炊
+
+自炊もできます。最近の目標はソース・エスパニョールを作ることです。
