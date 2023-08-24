@@ -49,6 +49,10 @@ tags:
 
 - [Ritsu_me - Misskey.io](https://misskey.io/@Ritsu_me)
 
+- [R1tsu.com - Bluesky Social](https://bsky.app/profile/r1tsu.com)
+
+- [ゆざきりつ - Instagram](https://instagram/ritsu._.me)
+
 ### Hobbys
 
 #### 写真撮影
