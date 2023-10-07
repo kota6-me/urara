@@ -16,7 +16,7 @@ export const site: SiteConfig = {
     import.meta.env.URARA_SITE_PROTOCOL ?? import.meta.env.DEV
       ? "http://"
       : "https://",
-  domain: import.meta.env.URARA_SITE_DOMAIN ?? "r1tsu.com",
+  domain: import.meta.env.URARA_SITE_DOMAIN ?? "note.r1tsu.com",
   title: "Notebook",
   subtitle: "Ritsu Yuzaki's blog site.",
   lang: "ja-JP",
