@@ -3,7 +3,7 @@
   "short_name": "Notebook",
   "lang": "ja-JP",
   "description": "Powered by Urara, The Svelte engine.",
-  "id": "https://r1tsu.com/",
+  "id": "https://note.r1tsu.com/",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
@@ -12,25 +12,25 @@
   "theme_color": "#ffce53",
   "icons": [
     {
-      "src": "https://r1tsu.com/assets/Zone.png",
+      "src": "https://note.r1tsu.com/assets/Zone.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://r1tsu.com/assets/Zone.png",
+      "src": "https://note.r1tsu.com/assets/Zone.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://r1tsu.com/assets/Zone.png",
+      "src": "https://note.r1tsu.com/assets/Zone.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "https://r1tsu.com/assets/Zone.png",
+      "src": "https://note.r1tsu.com/assets/Zone.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
