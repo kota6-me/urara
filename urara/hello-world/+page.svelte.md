@@ -1,6 +1,7 @@
 ---
 title: 'Howdy!'
 created: 2023-06-09
+updated: 2023-06-09
 tags:
   - 'Hello World'
   - 'Free Talk'
@@ -32,8 +33,7 @@ tags:
 ### Contacts
 
 #### Mail
-- me@ritsu-me.com
-- mail@ritsu-me.com
+- me@r1tsu.com
 
 #### SNS
 - Discord
@@ -50,8 +50,6 @@ tags:
 - [Ritsu_me - Misskey.io](https://misskey.io/@Ritsu_me)
 
 - [R1tsu.com - Bluesky Social](https://bsky.app/profile/r1tsu.com)
-
-- [ゆざきりつ - Instagram](https://instagram/ritsu._.me)
 
 ### Hobbys
 
@@ -74,7 +72,3 @@ tags:
 ![Old plate of station name](./IMG_3188_Original.jpg)
 
 ![Japanese narrow alley](./IMG_5615_Original.jpg)
-
-#### 自炊
-
-自炊もできます。最近の目標はソース・エスパニョールを作ることです。
