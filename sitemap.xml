@@ -11,13 +11,18 @@
     </url>
     
         <url>
+            <loc>https://note.r1tsu.com/activity-suspension</loc>
+            <lastmod>2023-11-14T00:00:00.000Z</lastmod>
+            <priority>0.5</priority>
+        </url>
+        <url>
             <loc>https://note.r1tsu.com/obsidian</loc>
             <lastmod>2023-06-20T00:00:00.000Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
             <loc>https://note.r1tsu.com/hello-world</loc>
-            <lastmod>2023-10-07T00:49:56.885Z</lastmod>
+            <lastmod>2023-06-09T00:00:00.000Z</lastmod>
             <priority>0.5</priority>
         </url>
   </urlset>
