@@ -9,7 +9,7 @@ tags:
 
 ## Welcome to Notebook!
 
-こんにちは。どうも由崎律です！
+こんにちは。どうもゆざきりつです！
 このサイトは僕が日々思ったことなどを書き散らしてゆくブログサイトです。
 
 ## Introducing me
@@ -17,7 +17,7 @@ tags:
 一体僕は何なんでしょうね？自己紹介です！
 
 ### Who are you?
-僕は由崎律。どこにでもいる高校生です。
+僕は由崎律(ゆざきりつ)。どこにでもいる高校生です。
 
 コロナ禍1年目のオンライン授業をガン無視してJavaScriptを猛勉強した結果、成績という重い代償を払う代わりにそこそこ役に立つスキルを入手できた、そんなやつです。
 
@@ -26,14 +26,14 @@ tags:
 
 宮城県仙台市出身
 
-都内の中高一貫男子校に通ってる限界高校生
+都内の中高一貫男子校に通ってる限界LDK
 
 バックエンド(Node.js)メインのプログラマー
 
 ### Contacts
 
 #### Mail
-- me@r1tsu.com
+- contact@kota6.me
 
 #### SNS
 - Discord
@@ -41,15 +41,13 @@ tags:
 @ritsu.me
 ```
 
-- [由崎律 - Facebook](https://www.facebook.com/Ritsu.me)
-
-- [RitsuYuzaki - GitHub](https://github.com/ritsu-me)
+- [RitsuYuzaki - GitHub](https://github.com/kota6-me)
 
 - [ゆざきりつ - Twitter](https://twitter.com/ritsu_me)
 
-- [Ritsu_me - Misskey.io](https://misskey.io/@Ritsu_me)
+- [kota6_me - Misskey.io](https://misskey.io/@kota6_me)
 
-- [R1tsu.com - Bluesky Social](https://bsky.app/profile/r1tsu.com)
+- [kota6.me - Bluesky Social](https://bsky.app/profile/kota6.me)
 
 ### Hobbys
 
